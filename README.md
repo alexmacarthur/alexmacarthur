@@ -1,6 +1,6 @@
-# HELLO. 
+# I'm Alex, a developer for [Ramsey Solutions](https://www.daveramsey.com) in Nashville-ish, TN. 
 
-I'm a web developer at [Ramsey Solutions](https://www.daveramsey.com), on fire for what I do and [why I do it](https://www.fansofourfans.com/). Get to know me by: 
+I love what I do [why I do it](https://www.fansofourfans.com/). Get to know me by: 
 
 - reading [my blog](https://macarthur.me)
 - following [me on Twitter](https://twitter.com/amacarthur)
