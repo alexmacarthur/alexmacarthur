@@ -1,0 +1,24 @@
+name: CI
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Run a one-line script
+        run: npm run update-readme
+
+      - name: configure git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      - name: commit change
+        run: |
+          git add README.md
+          git commit -m "new date commit"
+          git push
