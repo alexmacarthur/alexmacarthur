@@ -7,4 +7,4 @@ I love what I do and [why I do it](https://www.fansofourfans.com/). Get to know 
 - connecting with [me on LinkedIn](https://www.linkedin.com/in/alexmacarthur/)
 - viewing my most important [vanity metrics](https://macarthur.me/dashboard)
 
-Last Updated via GitHub Actions: {TIMESTAMP}
+Last Updated via GitHub Actions: 11:11:12 AM
