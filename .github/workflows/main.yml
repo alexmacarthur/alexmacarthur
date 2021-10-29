@@ -12,6 +12,8 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.ref }}
       
       - name: Run a one-line script
         run: npm run update-readme
@@ -25,4 +27,4 @@ jobs:
         run: |
           git add README.md
           git commit -m "new date commit"
-          git push origin master
+          git push
