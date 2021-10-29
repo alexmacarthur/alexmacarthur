@@ -23,4 +23,4 @@ jobs:
         run: |
           git add README.md
           git commit -m "new date commit"
-          git push
+          git push origin master
