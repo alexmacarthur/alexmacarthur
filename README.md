@@ -1,4 +1,4 @@
-# I'm a code monkey for [Ramsey Solutions](https://www.ramseysolutions.com) in Nashville-ish, TN. I enjoy attention. Please give me sum.
+# I'm an engineer for [Ramsey Solutions](https://www.ramseysolutions.com) in Nashville-ish, TN.
 
 I love what I do and [why I do it](https://www.fansofourfans.com/). Get to know me by: 
 
