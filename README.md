@@ -1,6 +1,6 @@
-# I'm an engineer for [Ramsey Solutions](https://www.ramseysolutions.com).
+# I boss around computers in made-up languages for [Dave Ramsey](https://ramseysolutions.com).
 
-I love what I do and [why I do it](https://www.fansofourfans.com/). Get to know me by: 
+Get to know me better by:
 
 - reading [my blog](https://macarthur.me)
 - following [me on Twitter](https://twitter.com/amacarthur)
