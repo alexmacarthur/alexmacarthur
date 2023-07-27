@@ -1,4 +1,4 @@
-# I boss around computers in made-up languages for [Dave Ramsey](https://ramseysolutions.com).
+# Bossing around computers in made-up languages.
 
 Get to know me better by:
 
